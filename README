@@ -1,1 +1,1 @@
-Uses fundamental C system calls (socket, bind, listen, accept, read, write) to makes connections to the internet and also acting as a server.
+Uses fundamental C system calls (socket, bind, listen, accept, read, write) to makes connections to the internet and also act as a server.
