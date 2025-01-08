@@ -1,1 +1,3 @@
 Uses fundamental C system calls (socket, bind, listen, accept, read, write) to makes connections to the internet and also act as a server.
+
+Simply run by compiling the C programs using gcc (or any C compiler) and executing the binary executable. For the srv.c executable, you can try making a telnet connection to localhost on port 8181.
